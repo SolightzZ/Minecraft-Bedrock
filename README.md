@@ -54,7 +54,7 @@
 }
 ```
 
-## สำหรับการเขียน Java Script API
+## สำหรับการเขียน Behavior Packs Java Script API
 * manifest.json
 
 
