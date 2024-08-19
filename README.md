@@ -1,4 +1,7 @@
 # Minecraft-Bedrock
+### เว็ปทำ UUID
+[ Documentation Java Script](https://learn.microsoft.com/en-us/minecraft/creator/?view=minecraft-bedrock-stable)
+[ 📁 Uuid generator ](https://www.uuidgenerator.net/)
 
 ## Resource Packs
 * manifest.json 
