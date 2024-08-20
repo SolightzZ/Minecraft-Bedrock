@@ -1,17 +1,17 @@
 ### เมนูต่างๆ
 * [ 📰 Documentation Java Script](https://learn.microsoft.com/en-us/minecraft/creator/?view=minecraft-bedrock-stable)
-* [ 📁 Uuid generator ](https://www.uuidgenerator.net/)
-* [ 🛒 Crafting & Name ](https://crafting.thedestruc7i0n.ca/)
+    * [ 📁 Uuid generator ](https://www.uuidgenerator.net/)
+        * [ 🛒 Crafting & Name ](https://crafting.thedestruc7i0n.ca/)
+*
+    * [ Home & back ](https://github.com/SolightzZ/Minecraft-Bedrock)
 
-* [ Home & back ](https://github.com/SolightzZ/Minecraft-Bedrock)
-* [ Menu Server Java scripts ](https://github.com/SolightzZ/Minecraft-Bedrock/tree/main/Menu%20Server)
-
-## Menu Server 
+## Menu Server Java scripts 
 - Minecraft v 1.21.20+
 
-* [ 📍 Download : Menu Server Java scripts ](https://github.com/SolightzZ/Minecraft-Bedrock/blob/main/Menu%20Server/Java%20Scripts.zip)
+* [ 📍 Download : Mcaddon ](https://github.com/SolightzZ/Minecraft-Bedrock/releases/download/JS/Java.Scripts.mcaddon)
+* [ 📍 Download : Zip ](https://github.com/SolightzZ/Minecraft-Bedrock/releases/download/JS/Java.Scripts.zip)
 
-<a href="https://github.com/SolightzZ/Minecraft-Bedrock/blob/main/Menu%20Server/Java%20Scripts.zip" download="FILENAME">📍 Download : Menu Server Java scripts</a>
+<a href="" download="FILENAME">📍 Download : Menu Server Java scripts</a>
 
 ### วิธีการทำ
 - 📂 New folder

@@ -1,11 +1,11 @@
 # Minecraft-Bedrock
 ### เมนูต่างๆ
 * [ 📰 Documentation Java Script](https://learn.microsoft.com/en-us/minecraft/creator/?view=minecraft-bedrock-stable)
-* [ 📁 Uuid generator ](https://www.uuidgenerator.net/)
-* [ 🛒 Crafting & Name ](https://crafting.thedestruc7i0n.ca/)
+    * [ 📁 Uuid generator ](https://www.uuidgenerator.net/)
+        * [ 🛒 Crafting & Name ](https://crafting.thedestruc7i0n.ca/)
 
 * [ Home & back ](https://github.com/SolightzZ/Minecraft-Bedrock)
-* [ Menu Server Java scripts ](https://github.com/SolightzZ/Minecraft-Bedrock/tree/main/Menu%20Server)
+    * [ Menu Server Java scripts ](https://github.com/SolightzZ/Minecraft-Bedrock/tree/main/Menu%20Server)
 
 
 ## Resource Packs
