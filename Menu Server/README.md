@@ -11,8 +11,6 @@
 * [ 📍 Download : Mcaddon ](https://github.com/SolightzZ/Minecraft-Bedrock/releases/download/JS/Java.Scripts.mcaddon)
 * [ 📍 Download : Zip ](https://github.com/SolightzZ/Minecraft-Bedrock/releases/download/JS/Java.Scripts.zip)
 
-<a href="" download="FILENAME">📍 Download : Menu Server Java scripts</a>
-
 ### วิธีการทำ
 - 📂 New folder
     * 📄 `manifest.json`
