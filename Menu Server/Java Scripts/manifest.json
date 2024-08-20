@@ -1,0 +1,40 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "Java Scripts [Menu]",
+        "description": "https://github.com/SolightzZ",
+        "uuid": "73127dd5-e04e-468f-96e5-c99b241f7362",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 21, 0]
+    },
+    "modules": [
+        {
+            "description": "https://github.com/SolightzZ",
+            "type": "data",
+            "uuid": "d0a496f3-86c7-47b2-be62-b48da03bd7f1",
+            "version": [1, 0, 0]
+        },
+        {
+            "type": "script",
+            "language": "javascript",
+            "uuid": "e23268cb-a1df-4487-bf3c-e722fd124ae7",
+            "entry": "scripts/main.js",
+            "version": [1, 0, 0]
+        }
+    ],
+    "dependencies": [
+        {
+            "uuid": "7fe5360f-4cad-46b2-b90b-f094b37a7717",
+            "version": [1, 0, 0]
+        }, 
+        {
+            "module_name": "@minecraft/server",
+            "version": "1.14.0"
+        },
+        {
+            "module_name": "@minecraft/server-ui",
+            "version": "1.0.0"
+        }
+     ]
+  }
+  

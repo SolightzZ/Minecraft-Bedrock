@@ -1,8 +1,12 @@
 # Minecraft-Bedrock
-### เว็ปทำ UUID
+### เมนูต่างๆ
 * [ 📰 Documentation Java Script](https://learn.microsoft.com/en-us/minecraft/creator/?view=minecraft-bedrock-stable)
 * [ 📁 Uuid generator ](https://www.uuidgenerator.net/)
-* [ Menu Server]()
+* [ 🛒 Crafting & Name ](https://crafting.thedestruc7i0n.ca/)
+* 
+* [ Home & back ](https://github.com/SolightzZ/Minecraft-Bedrock)
+* [ Menu Server ](https://github.com/SolightzZ/Minecraft-Bedrock/tree/main/Menu%20Server)
+
 
 ## Resource Packs
 * manifest.json 
