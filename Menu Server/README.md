@@ -11,6 +11,8 @@
 
 * [ 📍 Download : Menu Server Java scripts ](https://github.com/SolightzZ/Minecraft-Bedrock/blob/main/Menu%20Server/Java%20Scripts.zip)
 
+<a href="https://github.com/SolightzZ/Minecraft-Bedrock/blob/main/Menu%20Server/Java%20Scripts.zip" download="FILENAME">📍 Download : Menu Server Java scripts</a>
+
 ### วิธีการทำ
 - 📂 New folder
     * 📄 `manifest.json`
