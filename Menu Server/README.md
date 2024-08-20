@@ -8,8 +8,8 @@
 ## Menu Server Java scripts 
 - Minecraft v 1.21.20+
 
-* [ 📍 Download : Mcaddon ](https://github.com/SolightzZ/Minecraft-Bedrock/releases/download/JS/Java.Scripts.mcaddon)
-* [ 📍 Download : Zip ](https://github.com/SolightzZ/Minecraft-Bedrock/releases/download/JS/Java.Scripts.zip)
+* [ 📍 Download Template : Mcaddon ](https://github.com/SolightzZ/Minecraft-Bedrock/releases/download/JS/Java.Scripts.mcaddon)
+* [ 📍 Download Template : Zip ](https://github.com/SolightzZ/Minecraft-Bedrock/releases/download/JS/Java.Scripts.zip)
 
 ### วิธีการทำ
 - 📂 New folder
