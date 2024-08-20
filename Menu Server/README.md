@@ -75,11 +75,11 @@ mc.world.afterEvents.itemUse.subscribe(data => {
 
 //  คอมเม้น: การใช้ Function เพื่อสร้างเมนู 
 // ตั้งชื่อว่า function showMenu
-const a = "อธิบายเมนู ใส่ ไม่ใส่ก็ได้"
 function showMenu(player) {
     const form = new ui.ActionFormData();
-        title('ชื่อเมนู')
-        button('ตั้งชื่อ ปุ่ม', 'ใส่ icon')
+        title('ชื่อเมนู');
+        fbody('อธิบาย');
+        button('ตั้งชื่อ ปุ่ม', 'ใส่ icon');
 
 //  คอมเม้น: ตั้งปุ่มให้ทำงานอย่างไร
 // function showMenu ให้ตรงกับ case 0: showEmotes(player); break;
