@@ -9,7 +9,7 @@
 ## Menu Server 
 - Minecraft v 1.21.20+
 
-* [ 📍 Download : Menu Server Java scripts ]()
+* [ 📍 Download : Menu Server Java scripts ](https://github.com/SolightzZ/Minecraft-Bedrock/blob/main/Menu%20Server/Java%20Scripts.zip)
 
 ### วิธีการทำ
 - 📂 New folder
