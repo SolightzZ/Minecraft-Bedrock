@@ -10,7 +10,7 @@
 - Minecraft v 1.21.20+
 
 ### วิธีการทำ
-- 📂 สร้างแฟ้มใน ตั้งชื่ออะไรก็ได้เป็น ภาษาอังกฤษ
+- 📂 New folder
     * 📄 `manifest.json`
         * 📂 scripts
             * 📄 `main.js`
